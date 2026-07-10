@@ -69,25 +69,60 @@ adam:
 
 <br>
 
-## Featured Project
+## 🚀 What I Build
 
 <div align="center">
-
-### 🏭 Industrial KPI Monitoring Platform — LEONI Berrechid
-
-*A full-stack predictive analytics platform built during my PFE for a Tier-1 automotive wiring harness manufacturer.*
-
-| Metric | Result |
-|---|---|
-| Efficiency Prediction | **R² = 0.847** (XGBoost) |
-| Scrap Rate Prediction | **R² = 0.812** (XGBoost) |
-| Explainability | SHAP TreeExplainer |
-| Anomaly Detection | Isolation Forest |
-| Stack | React · TypeScript · Node/Express · FastAPI · PostgreSQL |
-
-`#XGBoost` `#SHAP` `#AnomalyDetection` `#IndustrialAI` `#FullStack`
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Industrial+Predictive+Analytics;High-Performance+Real-Time+Systems;LLM+%26+RAG+Implementations;Modern+Full-Stack+Web+Apps" alt="Typing SVG" />
 </div>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🏭 Industrial AI </h3>
+      <b>KPI Monitoring Platform (LEONI)</b><br>
+      <i>Predictive analytics for Tier-1 automotive.</i><br><br>
+      ⚡ <b>Efficiency & Scrap Prediction</b> (XGBoost R² > 0.81)<br>
+      🔍 <b>Explainability & Anomalies</b> (SHAP, Isolation Forest)<br>
+      <br>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <h3>⚡ High-Performance Web</h3>
+      <b>VibeCheck</b><br>
+      <i>Real-time polling platform for extreme concurrency.</i><br><br>
+      🦀 <b>Backend Architecture</b> (Rust, Axum)<br>
+      ⚛️ <b>Frontend Interface</b> (React)<br>
+      <br>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🧠 Generative AI</h3>
+      <b>SentimentFlow</b><br>
+      <i>Real-time sentiment analysis using live text streams.</i><br><br>
+      🤖 <b>AI/ML Engine</b> (OpenAI API, LLMs)<br>
+      🟩 <b>Backend Processing</b> (Node.js)<br>
+      <br>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <h3>🛠️ Automation & Workflow</h3>
+      <b>Developer Tooling</b><br>
+      <i>Shipping faster with AI-driven pipelines.</i><br><br>
+      ⚙️ <b>Workflow Automation</b> (n8n)<br>
+      💻 <b>AI Assistants</b> (Gemini CLI, Claude Code)<br>
+      <br>
+      <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
+      <img src="https://img.shields.io/badge/Automation-58A6FF?style=flat-square&logo=githubactions&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
