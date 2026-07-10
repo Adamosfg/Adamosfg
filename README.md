@@ -95,9 +95,7 @@ adam:
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adamosfg&theme=tokyonight&hide_border=true" />
-<img src="https://github-profile-trophy.vercel.app/?username=Adamosfg&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 </div>
-<br>
 
 ## Contribution Snake 🐍
 
